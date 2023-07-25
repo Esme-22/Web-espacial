@@ -1,0 +1,51 @@
+body{
+    backround-color: #aquamarine;
+    text-align:justify;
+
+}
+/*para redondear imagnes*/
+
+img{
+    width: 50%;
+    border-radius :200px
+}
+
+.estrella{
+    width: 300px;
+ }
+
+.title-mundo{
+font-size: 70px;
+text-align: center
+}
+.title-mundo{
+    color:hotpink
+}
+.title-universo{
+    font-size: 50px;
+    text-align: center;
+}
+.title-astrobiologia{
+    font-size: 70px;
+    text-align: center;
+}
+.title-estrellas{
+    font-size: 40px;
+    text-align: center;
+}
+.title-estrellas{
+    color:rgb(255, 0, 85)
+}
+.title-universo{
+    color:rgb(54, 37, 155)
+}
+.title-astrobiologia{
+    color:brown
+}
+/*
+selector{
+    propiedad : valor :
+}
+*/
+
+    
